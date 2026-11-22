@@ -1,7 +1,6 @@
 # Enterprise SaaS Workflow & Document Management: QA Portfolio
 
 **Author:** Dhanush  
-**Target role:** Mid-level / Senior QA Automation Engineer (3+ years)  
 
 A QA automation portfolio project built around a multi-tenant document management and approval workflow platform (think a mix of Jira, DocuSign and an internal document system). It is designed to exercise the hard parts of enterprise testing: tenant isolation, role-based access control, approval state transitions, file handling, background jobs and session revocation.
 
